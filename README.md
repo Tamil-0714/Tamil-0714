@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamil-0714&label=Profile%20views&color=0e75b6&style=flat" alt="tamil-0714" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamil-0714" alt="tamil-0714" /></a> </p>
+
 
 - 🔭 I’m currently working on [A SaaS LMS project intagrated with AI, code execution and collaboration tools](https://github.com/tamil-0714/college-project)
 
