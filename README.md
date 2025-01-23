@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamilarasan</h1>
-<h3 align="center">A MERN developer from India</h3>
+<h3 align="center">A MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamil-0714&label=Profile%20views&color=0e75b6&style=flat" alt="tamil-0714" /> </p>
 
